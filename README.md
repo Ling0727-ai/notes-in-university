@@ -12,7 +12,7 @@
 - 概率论
   [概率论](概率论/概率论.pdf)
 - C语言
-  [C语言复习](C语言/C语言复习)
+  [C语言复习](C语言/C语言复习.md)
 
 ## tag便捷下载
 [点击此处下载最新版](https://github.com/Ling0727-ai/notes-in-university/releases)
