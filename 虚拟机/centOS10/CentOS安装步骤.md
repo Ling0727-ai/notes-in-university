@@ -1,6 +1,6 @@
 ### 1. 官网下载VMWare
 - [官网界面（点击跳转下载的界面）](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623180622518.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623180622518.png)
 
 ___
 ### 2. 下载ISO文件
@@ -18,35 +18,35 @@ ___
 ___
 ### 3. 安装CentOS
 - **新建虚拟机**：选择自定义
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181039554.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181039554.png)
 
 - 硬件兼容性选Workstation 17.5 or later
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181115988.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181115988.png)
 
 
 - 选择稍后安装操作系统
- ![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181312978.png)
+ ![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181312978.png)
 
 
 - 系统选Linux，版本选CentOS 8 64 位
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181430433.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181430433.png)
 
 
 
 - 为虚拟机命名，并选择存储位置
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181731484.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181731484.png)
 
 
 - 按照自己的情况选择其余配置
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181818857.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181957842.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182032844.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182143448.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182157695.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182213890.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182228166.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182304336.png)
-![](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182332206.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181818857.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623181957842.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182032844.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182143448.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182157695.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182213890.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182228166.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182304336.png)
+![1](虚拟机/centOS10/assets/CentOS安装步骤/file-20250623182332206.png)
 
 
 - 选择编辑虚拟机设置
